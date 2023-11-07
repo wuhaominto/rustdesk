@@ -31,8 +31,6 @@ RustDesk welcomes contribution from everyone. See [CONTRIBUTING.md](docs/CONTRIB
     alt="Get it on F-Droid"
     height="80">](https://f-droid.org/en/packages/com.carriez.flutter_hbb)
 
-
-
 ## Free Public Servers
 
 Below are the servers you are using for free, they may change over time. If you are not close to one of these, your network may be slow.
